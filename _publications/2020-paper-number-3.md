@@ -2,7 +2,7 @@
 title: "Ce n'est pas technique, c'est politique: les disputes du droit d'auter au Brésil"
 collection: publications
 permalink: /publication/2020-paper-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper addresses conflicts regarding copyright law in Brazil'
 date: 2020
 venue: 'Direito, Estado e Sociedade'
 paperurl: 'http://fierycherry.github.io/files/2020-paper3.pdf'
