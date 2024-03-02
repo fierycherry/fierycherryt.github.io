@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017
-venue: 'Perspectivas - Portuguese Journal of Politicla Science'
+venue: 'Perspectivas - Portuguese Journal of Political Science'
 paperurl: 'http://academicpages.github.io/files/2017-paper1.pdf'
 citation: 'Albrecht, Nayara F Macedo de Medeiros. (2017). &quot;Capital x Labor in the Creative Industries:A Marxist Approach to Copyright and Related Rights. 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
