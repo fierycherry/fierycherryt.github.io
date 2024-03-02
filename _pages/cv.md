@@ -38,6 +38,8 @@ Skills
 * Teaching
 * Research
 * Data collection and analysis
+* Qualitative methods (interviews, content analysis)
+* Quantitative methods (econometrics, bibliometrics)
 
 Publications
 ======
@@ -54,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * Currently chair of the International Political Science Association's research committee on politics and business
+* Member of the Equality, Diversity and Inclusion Committee - Geography, Politics and Sociology, Newcastle University
