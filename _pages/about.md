@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data Science for Politics and Policymaking"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,6 +25,15 @@ This repository combines data-driven and theory-driven approaches for researchin
 A dynamic and equalitarian perspective on teaching
 ======
 It also offers resources for teaching data science and political science.
+
+
+
+
+
+Disclaimer
+======
+This page used the template made by academicpages.github.io.
+Copyright (c) 2016 Michael Rose
 
 
 
