@@ -1,7 +1,7 @@
 ---
 title: "Teorias da democracia: caminhos para uma nova proposta de mapeamento"
 collection: publications
-permalink: /publication/2019-paper1
+permalink: /publication/2019-paper-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019
 venue: 'BIB. Revista Brasileira de Informação Bibliográfica em Ciências Sociais'
