@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Data Science for Politics and Policymaking"
 title_separator          : "-"
 name                     : &name "Nayara Albrecht"
