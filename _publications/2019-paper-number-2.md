@@ -2,7 +2,7 @@
 title: "Teorias da democracia: caminhos para uma nova proposta de mapeamento"
 collection: publications
 permalink: /publication/2019-paper-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper discusses democratic theories.'
 date: 2019
 venue: 'BIB. Revista Brasileira de Informação Bibliográfica em Ciências Sociais'
 paperurl: 'http://fierycherry.github.io/files/2019-paper2.pdf'
