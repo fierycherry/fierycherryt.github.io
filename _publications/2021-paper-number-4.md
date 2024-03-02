@@ -2,7 +2,7 @@
 title: "Reflexões sobre nomeações a cargos públicos no Brasil: a experiência de três secretarias entre 2011 e 2018"
 collection: publications
 permalink: /publication/2021-paper-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper addresses the public bureaucracy in Brazil, presenting qualitative data of officers holding positions in three secretariats from 2011 to 2018.'
 date: 2021
 venue: 'Revista Brasileira de Ciência Política'
 paperurl: 'http://fierycherry.github.io/files/paper3.pdf'
