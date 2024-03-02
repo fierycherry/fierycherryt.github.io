@@ -5,7 +5,7 @@ permalink: /publication/2019-paper-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019
 venue: 'BIB. Revista Brasileira de Informação Bibliográfica em Ciências Sociais'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://fierycherry.github.io/files/paper2.pdf'
 citation: 'Albrecht, Nayara. (2019). &quot;Teorias da democracia: caminhos para uma nova proposta de mapeamento.&quot; <i>BIB. Revista Brasileira de Informação Bibliográfica em Ciências Sociais</i>. 1(2).'
 ---
 
